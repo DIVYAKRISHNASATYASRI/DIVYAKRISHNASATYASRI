@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
 - 👋 Hi, I’m @DIVYAKRISHNASATYASRI
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming skills
