@@ -1,11 +1,53 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
-- 👋 Hi, I’m @DIVYAKRISHNASATYASRI
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning programming skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+
+ https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai
+ 
+Hi there! I'm [DIVYA KRISHNA SATYA SRI PAIBONU] 👋  
+A passionate developer with a love for solving problems and building awesome projects 🚀.
+
+
+🔭 I’m currently working on [REAL WORLD PROBLEMS].  
+🌱 I’m always learning new technologies.  
+👯 I’m looking to collaborate on [OPEN SOURCE PROJECTS]. 
+💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
+🌍 Let’s make the web better together!
+
+CONNECT WITH ME
+<a href="https://www.linkedin.com/in/divya-krishna-satya-sri-paibonu-56a22a294/" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LINKEDIN</a>
+<a href="https://www.codechef.com/users/divyapaibonu" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">CODECHEF</a>
+<a href="https://www.hackerrank.com/profile/divya_paibonu" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HACKERRANK</a>
+<a href="https://discord.com/channels/@me" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">DISCORD</a>
+<a href="https://www.holopin.io/@divyakrishnasatyasri#" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HOLOPIN</a>
+
+
+TECHNOLOGIES KNOWN
+
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML&CSS</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">JAVASCRIPT</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">JAVA</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">PYTHON</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">SQL</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">MONGODB</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">NODEJS</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">REACT</a>
+<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">MACHINELEARNING MODELS</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
 
 <!---
 DIVYAKRISHNASATYASRI/DIVYAKRISHNASATYASRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
