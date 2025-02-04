@@ -8,18 +8,20 @@
 
 ### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
    
-[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?&margin-w=25&matgin-h=45)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
+[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&margin-w=20&matgin-h=45)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
 
 </div>
+<hr style="border: 1px solid #000; width: 80%;"/>
 
  ### 📚 About Me
-
-🎯A passionate developer with a love for solving problems and building awesome projects 🚀.
-🔭 I’m currently working on REAL WORLD PROBLEMS.  
-🌱 I’m always learning new technologies.  
-👯 I’m looking to collaborate on OPEN SOURCE PROJECTS. 
-💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
-🌍 Let’s make the web better together!
+   
+- 🎯A passionate developer with a love for solving problems and building awesome projects 🚀.
+- 🔭 I’m currently working on REAL WORLD PROBLEMS.  
+- 🌱 I’m always learning new technologies.  
+- 👯 I’m looking to collaborate on OPEN SOURCE PROJECTS.  
+- 🌍 Let’s make the web better together.
+ 
+<hr style="border: 1px solid #000; width: 80%;"/>
 
 <div align="center">
 
@@ -44,14 +46,21 @@
 </p>
 
 </div>
+<hr style="border: 1px solid #000; width: 80%;"/>
 
 <div align="center">
  
 ### 🛠 TECHNOLOGIES KNOWN
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-python)  
-
+ ![Python](https://img.shields.io/badge/Python-3.9-blue)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+ ![Java](https://img.shields.io/badge/Java-17-red) 
+ ![React](https://img.shields.io/badge/React-17.0.2-blue)
+ ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-4.4-47A248?style=flat&logo=mongodb&logoColor=white)
+ ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=flat&logo=mysql&logoColor=white)
 </div>
+<hr style="border: 1px solid #000; width: 80%;"/>
 
 ### 📈Gihub Stats
 <div align="center">
@@ -59,6 +68,7 @@
 ![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
 
 </div>
+<hr style="border: 1px solid #000; width: 80%;"/>
 
 ### ⚡Github Streak
 <div align="center">
@@ -67,10 +77,8 @@
 
 </div>
 
-<!---
-DIVYAKRISHNASATYASRI/DIVYAKRISHNASATYASRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr style="border: 1px solid #000; width: 80%;"/>
+
 ## GSSOC(24) Badges 🪶
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -84,3 +92,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
 </details>
+<hr style="border: 1px solid #000; width: 80%;"/>
+
+### 💻Most Used Languages
+<div align="center">
+   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAKRISHNASATYASRI&layout=compact)
+
+</div>
