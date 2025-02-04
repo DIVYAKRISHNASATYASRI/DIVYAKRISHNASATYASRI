@@ -13,7 +13,7 @@ A passionate developer with a love for solving problems and building awesome pro
 💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
 🌍 Let’s make the web better together!
 
-##CONNECT WITH ME
+## CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/divya-krishna-satya-sri-paibonu-56a22a294/" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LINKEDIN</a>
 <a href="https://www.codechef.com/users/divyapaibonu" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">CODECHEF</a>
@@ -22,7 +22,7 @@ A passionate developer with a love for solving problems and building awesome pro
 <a href="https://www.holopin.io/@divyakrishnasatyasri#" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HOLOPIN</a>
 
 
-##TECHNOLOGIES KNOWN
+## TECHNOLOGIES KNOWN
 
 <a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML&CSS</a>
 <a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">JAVASCRIPT</a>
@@ -53,7 +53,7 @@ A passionate developer with a love for solving problems and building awesome pro
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)]
 
 <!---
 DIVYAKRISHNASATYASRI/DIVYAKRISHNASATYASRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
