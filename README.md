@@ -1,17 +1,14 @@
 <div align="center">
 
-   # 🌟 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
-   
- 
-  #### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+   # 🌟 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋 
+
+</div>
   
 <div align="center">
 
-<p align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?" alt="MY trophy" />
-</p>
- 
-</div>
+### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+   
+[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?&margin-w=25&matgin-h=45)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
 
 </div>
 
