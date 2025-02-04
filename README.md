@@ -47,8 +47,6 @@ A passionate developer with a love for solving problems and building awesome pro
 
 
 
-
-
 ![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
 
 
