@@ -53,7 +53,7 @@ A passionate developer with a love for solving problems and building awesome pro
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)
 
 <!---
 DIVYAKRISHNASATYASRI/DIVYAKRISHNASATYASRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
