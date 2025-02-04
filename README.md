@@ -44,10 +44,10 @@
   <a href="https://www.hackerrank.com/profile/divya_paibonu">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://discord.com/channels/@me">
+  <a href="https://www.holopin.io/@divyakrishnasatyasri#">
     <img src="https://img.shields.io/badge/Holopin-3C59A6?style=for-the-badge&logo=holopin&logoColor=white"/>
   </a>
-  <a href="https://www.holopin.io/@divyakrishnasatyasri#">
+  <a href="https://discord.com/channels/@me">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
