@@ -3,21 +3,24 @@
    # 🌟 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
    
  
-  ### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+  #### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
   
- <p align="center">
-  
-   &nbsp;&nbsp;&nbsp;&nbsp;[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
+<div align="center">
 
-  </p>
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?" alt="MY trophy" />
+</p>
+ 
 </div>
-A passionate developer with a love for solving problems and building awesome projects 🚀.
 
+</div>
 
+ ### 📚 About Me
+
+🎯A passionate developer with a love for solving problems and building awesome projects 🚀.
 🔭 I’m currently working on REAL WORLD PROBLEMS.  
 🌱 I’m always learning new technologies.  
 👯 I’m looking to collaborate on OPEN SOURCE PROJECTS. 
-
 💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
 🌍 Let’s make the web better together!
 
@@ -53,22 +56,14 @@ A passionate developer with a love for solving problems and building awesome pro
 
 </div>
 
-
-
-
-
-
-
-
-
-
-### Gihub Stats
+### 📈Gihub Stats
 <div align="center">
  
 ![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
 
 </div>
 
+### ⚡Github Streak
 <div align="center">
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)
