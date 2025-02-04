@@ -1,8 +1,16 @@
-🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+<div align="center">
 
-[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
+   # 🌟 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
+   
  
-Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
+  ### 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
+  
+ <p align="center">
+  
+   &nbsp;&nbsp;&nbsp;&nbsp;[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
+
+  </p>
+</div>
 A passionate developer with a love for solving problems and building awesome projects 🚀.
 
 
@@ -13,26 +21,39 @@ A passionate developer with a love for solving problems and building awesome pro
 💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
 🌍 Let’s make the web better together!
 
-## CONNECT WITH ME
+<div align="center">
 
-<a href="https://www.linkedin.com/in/divya-krishna-satya-sri-paibonu-56a22a294/" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">LINKEDIN</a>
-<a href="https://www.codechef.com/users/divyapaibonu" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">CODECHEF</a>
-<a href="https://www.hackerrank.com/profile/divya_paibonu" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HACKERRANK</a>
-<a href="https://discord.com/channels/@me" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">DISCORD</a>
-<a href="https://www.holopin.io/@divyakrishnasatyasri#" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HOLOPIN</a>
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divya-krishna-satya-sri-paibonu-56a22a294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/divyapaibonu">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/divya_paibonu">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Holopin-3C59A6?style=for-the-badge&logo=holopin&logoColor=white"/>
+  </a>
+  <a href="https://www.holopin.io/@divyakrishnasatyasri#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+<div align="center">
+ 
+### 🛠 TECHNOLOGIES KNOWN
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-python)  
+
+</div>
 
 
-## TECHNOLOGIES KNOWN
-
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML&CSS</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">JAVASCRIPT</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">JAVA</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">PYTHON</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">SQL</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">MONGODB</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">NODEJS</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">REACT</a>
-<a href="" style="background-color: #007bff; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">MACHINELEARNING MODELS</a>
 
 
 
@@ -41,16 +62,18 @@ A passionate developer with a love for solving problems and building awesome pro
 
 
 
-
-
-
-
-
-
+### Gihub Stats
+<div align="center">
+ 
 ![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
 
+</div>
 
+<div align="center">
+ 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DIVYAKRISHNASATYASRI&theme=shades-of-purple)](https://git.io/streak-stats)
+
+</div>
 
 <!---
 DIVYAKRISHNASATYASRI/DIVYAKRISHNASATYASRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
