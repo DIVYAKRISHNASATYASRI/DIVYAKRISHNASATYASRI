@@ -2,13 +2,14 @@
 
 [![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
  
-Hi there! I'm [DIVYA KRISHNA SATYA SRI PAIBONU] 👋  
+Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
 A passionate developer with a love for solving problems and building awesome projects 🚀.
 
 
-🔭 I’m currently working on [REAL WORLD PROBLEMS].  
+🔭 I’m currently working on REAL WORLD PROBLEMS.  
 🌱 I’m always learning new technologies.  
-👯 I’m looking to collaborate on [OPEN SOURCE PROJECTS]. 
+👯 I’m looking to collaborate on OPEN SOURCE PROJECTS. 
+
 💬 Feel free to reach out for collaborations or to discuss anything tech-related.  
 🌍 Let’s make the web better together!
 
