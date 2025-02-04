@@ -1,6 +1,13 @@
 <div align="center">
 
    # 🌟 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋 
+   
+   ### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=DIVYAKRISHNASATYASRI)
+
+
+
+
 
 </div>
   
@@ -62,7 +69,7 @@
 </div>
 <hr style="border: 1px solid #000; width: 80%;"/>
 
-### 📈Gihub Stats
+### 📈Gihub History
 <div align="center">
  
 ![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIVYAKRISHNASATYASRI&show_icons=true&theme=radical)
@@ -100,3 +107,32 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYAKRISHNASATYASRI&layout=compact)
 
 </div>
+
+---
+### 💼 Experience
+
+#### 🧑‍💻 **Open Source Contributor at GSSoC (Google Summer of Code)**
+
+I contributed to multiple open-source projects as part of **Google Summer of Code (GSSoC)**, where I collaborated with developers worldwide and gained experience in **software development** and **problem-solving**.
+
+- **Project Title**: WEBHACK
+- **Tech Stack**: Python, JavaScript, Node.js, React, etc.
+- **Contributions**: Improved features, fixed bugs, and enhanced documentation.
+
+#### 🎓 **Team Lead at SIH (Smart India Hackathon 2024)**
+
+As a **Team Lead** for the **AI-driven Education** project, I led a team to develop an AI-based educational platform. Our project aimed to provide **personalized learning experiences** using **AI algorithms** and **machine learning** techniques.
+
+- **Project Idea**: An AI-driven education platform focused on personalized learning paths for students.
+- **Tech Stack**: Python, TensorFlow, Flask, AI/ML, etc.
+
+#### 🏆 **Class Representative (CR) Since 2023**
+
+ I have been serving as the **Class Representative (CR)** since 2023, taking on responsibilities that involve managing communication between students and faculty, coordinating events, and representing student concerns. My role has helped me develop strong leadership, communication, and organizational skills.
+
+- **Responsibilities**: 
+   - Acting as the liaison between the students and faculty.
+   - Organizing class events, discussions, and activities.
+   - Ensuring smooth communication regarding academic and extracurricular matters.
+- **Skills**: Leadership, Communication, Problem-solving, Event Coordination.
+
