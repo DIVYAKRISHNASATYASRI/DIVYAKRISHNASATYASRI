@@ -1,6 +1,6 @@
 🔔 Open Source Contributor | 💼 Full Stack Developer | 🚀 Building the future one commit at a time.
 
-[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
+[![MY trophy](https://github-profile-trophy.vercel.app/?username=DIVYAKRISHNASATYASRI&theme=monokai&rank=-?)](https://github.com/DIVYAKRISHNASATYASRI/github-profile-trophy)
  
 Hi there! I'm DIVYA KRISHNA SATYA SRI PAIBONU 👋  
 A passionate developer with a love for solving problems and building awesome projects 🚀.
